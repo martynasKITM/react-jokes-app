@@ -11,3 +11,14 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.saved{
+  background-color: #ecb19f;
+  margin:10px;
+}
+
+.card{
+  height: 250px;
+  margin-bottom: 20px;
+  overflow: scroll;
+}
